@@ -1,0 +1,14 @@
+C:\Users\axzyte385\source\repos\991667498NoopurPatel\991667498NoopurPatel\bin\Debug\net8.0\991667498NoopurPatel.exe
+C:\Users\axzyte385\source\repos\991667498NoopurPatel\991667498NoopurPatel\bin\Debug\net8.0\991667498NoopurPatel.deps.json
+C:\Users\axzyte385\source\repos\991667498NoopurPatel\991667498NoopurPatel\bin\Debug\net8.0\991667498NoopurPatel.runtimeconfig.json
+C:\Users\axzyte385\source\repos\991667498NoopurPatel\991667498NoopurPatel\bin\Debug\net8.0\991667498NoopurPatel.dll
+C:\Users\axzyte385\source\repos\991667498NoopurPatel\991667498NoopurPatel\bin\Debug\net8.0\991667498NoopurPatel.pdb
+C:\Users\axzyte385\source\repos\991667498NoopurPatel\991667498NoopurPatel\obj\Debug\net8.0\991667498NoopurPatel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axzyte385\source\repos\991667498NoopurPatel\991667498NoopurPatel\obj\Debug\net8.0\991667498NoopurPatel.AssemblyInfoInputs.cache
+C:\Users\axzyte385\source\repos\991667498NoopurPatel\991667498NoopurPatel\obj\Debug\net8.0\991667498NoopurPatel.AssemblyInfo.cs
+C:\Users\axzyte385\source\repos\991667498NoopurPatel\991667498NoopurPatel\obj\Debug\net8.0\991667498NoopurPatel.csproj.CoreCompileInputs.cache
+C:\Users\axzyte385\source\repos\991667498NoopurPatel\991667498NoopurPatel\obj\Debug\net8.0\991667498NoopurPatel.dll
+C:\Users\axzyte385\source\repos\991667498NoopurPatel\991667498NoopurPatel\obj\Debug\net8.0\refint\991667498NoopurPatel.dll
+C:\Users\axzyte385\source\repos\991667498NoopurPatel\991667498NoopurPatel\obj\Debug\net8.0\991667498NoopurPatel.pdb
+C:\Users\axzyte385\source\repos\991667498NoopurPatel\991667498NoopurPatel\obj\Debug\net8.0\991667498NoopurPatel.genruntimeconfig.cache
+C:\Users\axzyte385\source\repos\991667498NoopurPatel\991667498NoopurPatel\obj\Debug\net8.0\ref\991667498NoopurPatel.dll
